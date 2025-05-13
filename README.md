@@ -7,6 +7,7 @@ This repository contains Jupyter Notebooks and datasets demonstrating various re
 | File Name                                         | Description                                                                 |
 |---------------------------------------------------|-----------------------------------------------------------------------------|
 | `sales-prediction-simple-linear-regression.ipynb` | Simple Linear Regression example using advertising data.                     |
+| `master-polynomial-regression-with-this-notebook` | Polynomial Regression example with a small dataset.
 | `multiple-linear-regression-in-python.ipynb`      | Multiple Linear Regression example with a small dataset.                     |
 | `diabetes-logistic-regression.ipynb`              | Logistic Regression example using the diabetes dataset.                      |
 | `advertising.csv`                                 | Dataset for simple linear regression (advertising data).                     |
